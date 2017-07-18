@@ -1,0 +1,235 @@
+.box1 {
+  background-color: tomato;
+  color: white;
+  float: left;
+  width: 70%;
+}
+.box1 h1 {
+  padding: 5px;
+}
+
+.box2 {
+  background-color: silver;
+  color: black;
+  float: left;
+  width: 30%;
+}
+.box2 h1 {
+  padding: 5px;
+}
+
+/** This is the start of my CSS Box Content **/
+.box3 {
+  background-color: red;
+  color: white;
+  float: left;
+  width: 33%;
+}
+.box3 h1 {
+  padding: 5px;
+}
+
+.box4 {
+  background-color: orange;
+  color: white;
+  float: left;
+  width: 33%;
+}
+.box4 h1 {
+  padding: 5px;
+}
+
+.box5 {
+  background-color: yellow;
+  color: white;
+  float: left;
+  width: 34%;
+}
+.box5 h1 {
+  padding: 5px;
+}
+
+/** This starts my 2nd row of boxes to create; carrying on with Roy G. Biv theme **/
+
+.box6 {
+  background-color: green;
+  color: white;
+  float: left;
+  width: 25%;
+}
+.box6 h1 {
+  padding: 5px;
+}
+
+.box7 {
+  background-color: blue;
+  color: white;
+  float: left;
+  width: 25%;
+}
+.box7 h1 {
+  padding: 5px;
+}
+
+.box8 {
+  background-color: indigo;
+  color: white;
+  float: left;
+  width: 25%;
+}
+.box8 h1{
+  padding: 5px;
+}
+
+.box9 {
+  background-color: violet;
+  color: white;
+  float: left;
+  width: 25%;
+}
+.box9 h1 {
+  padding: 5px;
+}
+
+/** Here is my 3rd fucking row of beautiful boxes **/
+.box10 {
+  background-color: red;
+  color: white;
+  float: left;
+  width: 18%;
+}
+.box10 h1 {
+  padding: 5px;
+}
+
+.box11 {
+  background-color: orange;
+  color: white;
+  float: left;
+  width: 22%;
+}
+.box11 h1 {
+  padding: 5px;
+}
+
+.box12 {
+  background-color: yellow;
+  color: white;
+  float: left;
+  width: 17%;
+}
+.box12 h1 {
+  padding: 5px;
+}
+
+.box13 {
+  background-color: green;
+  color: white;
+  float: left;
+  width: 23%;
+}
+.box13 h1 {
+  padding: 5px;
+}
+
+.box14 {
+  background-color: blue;
+  color: white;
+  float: left;
+  width: 20%;
+}
+.box14 h1 {
+  padding: 5px;
+}
+
+/** Zee 4th row of perfection **/
+.box15 {
+  background-color: indigo;
+  color: white;
+  float: left;
+  width: 15%;
+}
+.box15 h1 {
+  padding: 5px;
+}
+
+.box16 {
+  background-color: violet;
+  color: white;
+  float: left;
+  width: 35%;
+}
+.box16 h1{
+  padding: 5px;
+}
+
+.box17 {
+  background-color: red;
+  color: white;
+  float: left;
+  width: 15%;
+}
+.box17 h1 {
+  padding: 5px;
+}
+
+.box18 {
+  background-color: orange;
+  color: white;
+  float: left;
+  width: 35%;
+}
+.box18 h1 {
+  padding: 5px;
+}
+
+/** Zee 5th & final fucking box zing **/
+.box19 {
+  background-color: yellow;
+  color: white;
+  float: left;
+  width: 20%;
+}
+.box19 h1 {
+  padding: 5px;
+}
+
+.box20 {
+  background-color: green;
+  color: white;
+  float: left;
+  width: 20%;
+}
+.box20 {
+  padding: 5px;
+}
+
+.box21 {
+  background-color: blue;
+  color: white;
+  float: left;
+  width: 20%;
+}
+.box21 {
+  padding: 5px;
+}
+
+.box22 {
+  background-color: indigo;
+  color: white;
+  float: left;
+  width: 20%;
+}
+.box22 h1 {
+  padding: 5px;
+}
+
+.box23 {
+  background-color: violet;
+  color: white;
+  float: left;
+  width: 18.4%;
+}
+.box23 h1 {
+  padding: 5px;
+}
